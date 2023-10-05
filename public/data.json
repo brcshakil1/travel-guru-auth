@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Cox's Bazar",
+    "img": "https://i.ibb.co/1RMwqHm/coxsbazar.png",
+    "description": "Cox's Bazar is a stunning coastal town in Bangladesh known for its long, sandy beach, which stretches for miles along the Bay of Bengal. It's a popular destination for beach lovers and offers breathtaking views of the sea. The town also has numerous seafood restaurants, making it a paradise for food enthusiasts. Don't miss the chance to visit Himchari National Park and Inani Beach while you're here.",
+    "hotels": [
+      {
+        "name": "Seaside Resort",
+        "img": "https://i.ibb.co/5KMKQnH/hotel1.png",
+        "guests": 2,
+        "bedrooms": 1,
+        "beds": 2,
+        "baths": 1,
+        "description": "Seaside Resort offers comfortable beachfront cottages with breathtaking ocean views. Each cottage comes with a private balcony and all the modern amenities you need for a relaxing stay. The resort also has an on-site restaurant serving fresh seafood.",
+        "rating": 4.5,
+        "price_per_night": 120
+      },
+      {
+        "name": "Golden Sands Hotel",
+        "img": "https://i.ibb.co/xDvRhg6/hotel2.png",
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 3,
+        "baths": 2,
+        "description": "Golden Sands Hotel provides spacious rooms and suites with panoramic views of Cox's Bazar beach. Their rooftop swimming pool is a perfect spot to unwind. The hotel's restaurant offers a variety of cuisines to satisfy your taste buds.",
+        "rating": 4.3,
+        "price_per_night": 150
+      },
+      {
+        "name": "Beach View Resort",
+        "img": "https://i.ibb.co/02d7nYy/hotel3.png",
+        "guests": 6,
+        "bedrooms": 3,
+        "beds": 4,
+        "baths": 2,
+        "description": "Beach View Resort is a family-friendly accommodation option just steps away from the beach. The spacious rooms come with a well-equipped kitchen, making it perfect for longer stays. Enjoy the tranquility and sea breeze from your private veranda.",
+        "rating": 4.0,
+        "price_per_night": 90
+      }
+    ]
+  },
+  {
+    "name": "Sreemangal",
+    "img": "https://i.ibb.co/YTzKP4p/sreemangal.jpg",
+    "description": "Sreemangal, often referred to as the 'Tea Capital of Bangladesh,' is a lush green region known for its tea gardens and serene landscapes. Take a guided tour through the tea estates, visit the Lawachara National Park for a dose of nature, and don't forget to savor the famous Sreemangal tea.",
+    "hotels": [
+      {
+        "name": "Tea Garden Resort",
+        "img": "https://i.ibb.co/02d7nYy/hotel3.png",
+        "guests": 2,
+        "bedrooms": 1,
+        "beds": 1,
+        "baths": 1,
+        "description": "Tea Garden Resort is nestled amidst tea plantations, offering a tranquil and immersive experience. Enjoy your stay in cozy cottages and take leisurely walks in the tea gardens. The resort also has a tea-themed restaurant.",
+        "rating": 4.4,
+        "price_per_night": 80
+      },
+      {
+        "name": "Green Valley Inn",
+        "img": "https://i.ibb.co/xDvRhg6/hotel2.png",
+        "guests": 3,
+        "bedrooms": 1,
+        "beds": 2,
+        "baths": 1,
+        "description": "Green Valley Inn is a charming guesthouse with a garden view. It's an excellent choice for nature enthusiasts looking for a peaceful retreat. The friendly staff can arrange guided tours to nearby attractions.",
+        "rating": 4.2,
+        "price_per_night": 70
+      },
+      {
+        "name": "Tea Leaf Cottage",
+        "img": "https://i.ibb.co/5KMKQnH/hotel1.png",
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 2,
+        "description": "Tea Leaf Cottage offers a home-like experience in the heart of Sreemangal. The cottage is surrounded by tea gardens and provides a cozy atmosphere. It's an ideal place for a quiet getaway with your loved ones.",
+        "rating": 4.0,
+        "price_per_night": 65
+      }
+    ]
+  },
+  {
+    "name": "Sundarban",
+    "img": "https://i.ibb.co/TPjD1M0/sundarban.jpg",
+    "description": "The Sundarbans is a UNESCO World Heritage Site and one of the largest mangrove forests in the world. It's famous for its diverse wildlife, including the Bengal tiger. Explore the creeks, go birdwatching, and take a boat tour to experience the unique beauty of this ecological wonder.",
+    "hotels": [
+      {
+        "name": "Mangrove Lodge",
+        "img": "https://i.ibb.co/5KMKQnH/hotel1.png",
+        "guests": 2,
+        "bedrooms": 1,
+        "beds": 1,
+        "baths": 1,
+        "description": "Mangrove Lodge is an eco-friendly accommodation located deep within the Sundarbans. Stay in comfortable cottages surrounded by the mangrove forest. The lodge organizes guided wildlife tours and boat safaris.",
+        "rating": 4.7,
+        "price_per_night": 110
+      },
+      {
+        "name": "Wildlife Retreat",
+        "img": "https://i.ibb.co/xDvRhg6/hotel2.png",
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 1,
+        "description": "Wildlife Retreat offers rustic charm with modern amenities. It's the perfect base for wildlife enthusiasts and photographers. Enjoy delicious local cuisine in the midst of the wilderness.",
+        "rating": 4.5,
+        "price_per_night": 95
+      },
+      {
+        "name": "River View Eco Resort",
+        "img": "https://i.ibb.co/02d7nYy/hotel3.png",
+        "guests": 6,
+        "bedrooms": 3,
+        "beds": 3,
+        "baths": 2,
+        "description": "River View Eco Resort offers a unique experience by the riverbanks of the Sundarbans. Stay in comfortable rooms with river views and take part in nature walks and boat excursions led by knowledgeable guides.",
+        "rating": 4.3,
+        "price_per_night": 85
+      }
+    ]
+  },
+  {
+    "name": "Sajek",
+    "img": "https://i.ibb.co/y5GLhPW/sajek.jpg",
+    "description": "Sajek Valley is a remote and picturesque destination nestled in the Chittagong Hill Tracts. It's known for its breathtaking landscapes, lush green hills, and serene atmosphere. Take a trek to the nearby villages, visit tribal communities, and enjoy the stunning sunset views.",
+    "hotels": [
+      {
+        "name": "Hilltop Retreat",
+        "img": "https://i.ibb.co/02d7nYy/hotel3.png",
+        "guests": 2,
+        "bedrooms": 1,
+        "beds": 1,
+        "baths": 1,
+        "description": "Hilltop Retreat offers cozy cottages perched on the hillside, providing panoramic views of Sajek Valley. It's a tranquil escape for couples and nature lovers. Enjoy delicious local cuisine at the on-site restaurant.",
+        "rating": 4.6,
+        "price_per_night": 100
+      },
+      {
+        "name": "Cloud Haven Lodge",
+        "img": "https://i.ibb.co/xDvRhg6/hotel2.png",
+        "guests": 4,
+        "bedrooms": 2,
+        "beds": 2,
+        "baths": 1,
+        "description": "Cloud Haven Lodge is a charming retreat with a homely ambiance. It's an ideal place for families or small groups. The lodge offers guided hikes and cultural experiences to connect with the local culture.",
+        "rating": 4.4,
+        "price_per_night": 80
+      },
+      {
+        "name": "Valley View Resort",
+        "img": "https://i.ibb.co/5KMKQnH/hotel1.png",
+        "guests": 6,
+        "bedrooms": 3,
+        "beds": 3,
+        "baths": 2,
+        "description": "Valley View Resort is nestled in the heart of Sajek Valley, offering comfortable accommodations for larger groups. Enjoy bonfires and stargazing nights while staying close to nature.",
+        "rating": 4.2,
+        "price_per_night": 70
+      }
+    ]
+  }
+]
